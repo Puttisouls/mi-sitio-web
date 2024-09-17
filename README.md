@@ -1,1 +1,1 @@
-# Personal Portfolio with IA
+# Personal Portfolio with AI
