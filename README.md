@@ -1,1 +1,1 @@
-# Link Wave landing page-web
+# Link Wave landing page
